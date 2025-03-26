@@ -10,11 +10,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceald1&theme=radical&show_icons=true"/>
       </a>
     </td>
-    <td><picture>
+  </tr>
+</table>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ceald1/ceald1/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ceald1/ceald1/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ceald1/ceald1/refs/heads/output/github-contribution-grid-snake.svg" />
-</picture></td>
-  </tr>
-</table>
-
+</picture>
